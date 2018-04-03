@@ -115,3 +115,37 @@ Hint 3
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 10abc4025c
+```
+
+Blah
+
+
+`@hint`
+Blah
+
+
+
+
+
+`@possible_answers`
+-D
+-E
+-F
+
+`@feedbacks`
+-Yes
+-No
+-No
+
+
+
