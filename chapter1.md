@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,106 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: a004564103
+key: 33c15e7835
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 
+
+key: 88d69911c3
+```
+
+Testing
 
 `@instructions`
+-A
+-B
+-C
 
 `@hint`
+Here's a hint
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 
+
+key: a0505acba1
 ```
 
-`@sample_code`
-```{python}
+Test 2
 
+`@instructions`
+-1
+-2
+-3
+
+`@hint`
+Hint 2
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 525cac796b
 ```
 
-`@solution`
-```{python}
+Test 3
 
-```
+`@instructions`
+Some stuff
 
-`@sct`
-```{python}
+`@hint`
+Hint 3
 
-```
+
+
+
+
+
+
+
+
